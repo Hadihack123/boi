@@ -107,8 +107,8 @@ from requests import post
 from PIL import Image
 from mutagen.mp3 import MP3
 
-bot = Bot("AppName", auth="dulqymywasljhepdqxarklmqsbegtgfo")
-target = "g0B8eMF0ce5c0a20eeb61840dae46e4f"
+bot = Bot("AppName", auth="")
+target = ""
 
 channell = "c0BCZ6p0f50023af73937b9c76a9699c"
 bot.sendPhoto(target, '/storage/emulated/0/now.png',caption=  f"محمد بات با موفقیت در گروه فعال شد 😍🕺")
